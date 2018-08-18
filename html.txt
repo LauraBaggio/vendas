@@ -31,6 +31,12 @@
        			<option>Sorvete</option>
         		<option>Assado</option>
        			<option>Bebidas</option>
+		</div class="dois">
+  		<label class="total" for="valtot">Valor Total: R$</label>
+  		<input type="text" name="valtot" id="valtot" class="valtot">
+	</div>
+
+	</form>
 
       </select>
 </section>
