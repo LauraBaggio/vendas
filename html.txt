@@ -63,3 +63,24 @@
   var valor = 0;
   var pago = $(".pago");
   var troco = $(".troco"); 
+
+	produtoclasse.on("click", function(){
+  
+  var produto = document.f1.prod.value;
+  var quantidade = document.f1.quan.value;
+
+    console.log(produto);
+
+    if(produto=="Salgado"){
+      valor = $(".valtot").val(4*parseFloat(quantidade));
+
+    }else if(produto=="Sorvete"){
+      valor = $(".valtot").val(3*parseFloat(quantidade));
+
+    }else if(produto=="Assado"){
+      valor = $(".valtot").val(4.5*parseFloat(quantidade));
+
+    }else if(produto=="Bebidas"){
+      valor = $(".valtot").val(5*parseFloat(quantidade));
+    }
+});
