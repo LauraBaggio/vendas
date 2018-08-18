@@ -25,3 +25,29 @@ section form legend{
 	margin: 1vw 0 5vw 0;
 	text-shadow: 1px 2px 5px #fff;
 }
+section form div.um{
+	display: block;
+}
+section form div.um select{
+	height: 2.6vw;
+	width: 15vw;
+	font-family: "league gothic";
+	background: #74a4d3;
+	color: white;
+	border-color: #74a4d3;
+	font-size: 1.2em;
+	margin: 0 0 5vw 0;
+}
+section form div.um label{
+	color: white;
+	font-size: 2em;
+	margin: 0 0 2vw 0;
+	font-family: "league gothic";
+	text-shadow: none;
+}
+section form div.um label.quan{
+	margin: 0 1vw 0 0vw;
+}
+section form div.um label.prod{
+	margin: 0 1vw 0 5vw;
+}
