@@ -53,3 +53,13 @@
 </section>
 
 <script  src="js/jquery-3.3.1.min.js"></script>
+<script>
+
+  var button = $("button");
+  
+  var quantidade = $(".quantidade");
+  var valortotal = $(".valtot");
+  var produtoclasse = $(".produtoclasse");
+  var valor = 0;
+  var pago = $(".pago");
+  var troco = $(".troco"); 
