@@ -24,4 +24,13 @@
   			<option>4</option>
   			<option>5</option>
   		</select>
+		 <label class="prod" for="prod">Produto:</label>
+      		 <select name="prod" id="produ" class="produtoclasse">
+        		<option>Buscar</option>
+        		<option>Salgado</option>
+       			<option>Sorvete</option>
+        		<option>Assado</option>
+       			<option>Bebidas</option>
+
+      </select>
 </section>
