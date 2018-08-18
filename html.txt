@@ -34,6 +34,17 @@
 		</div class="dois">
   		<label class="total" for="valtot">Valor Total: R$</label>
   		<input type="text" name="valtot" id="valtot" class="valtot">
+		<button>Vender</button>
+    			<p class="venda">Vendas</p>
+    			<table id="tabela">
+   			<tr id="linha">
+    			<td>Produto</td>
+    			<td>Valor Total</td>
+
+
+		</tr>
+	</table>
+</section>
 	</div>
 
 	</form>
