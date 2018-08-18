@@ -6,3 +6,13 @@
 body{
 	background: #115291;
 }
+section{
+	text-align: center;
+}
+section p.imagem{
+	text-align: left;
+	margin: 1vw 0 0 1vw;
+}
+section p.imagem img{
+	width: 5%;
+}
