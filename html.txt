@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Caixa</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <section>
+  	<p class="imagem"><img src="img/cart.png"></p>
+  	<form method="get" action="#" name="f1">
+  		<legend>CAIXA</legend>
+	<div class="um">
+  		<label class="quan" for="quan">Quantidade:</label>
+  		<select name="quan" id="quan" class="quantidade">
+  			<option>1</option>
+  			<option>2</option>
+  			<option>3</option>
+  			<option>4</option>
+  			<option>5</option>
+  		</select>
+</section>
