@@ -86,3 +86,19 @@ section p.venda{
 	margin-top: 10vw;
 	font-family: "league gothic";
 }
+table{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3vw;
+	margin-bottom: 8vw;
+	border: 2px solid white;
+	background: #74a4d3;
+	color: white;
+	font-family: "league gothic";
+}
+
+table tr td{
+	padding: 2vw 15vw 0 0;
+	font-size: 2em;
+	height: 5vh;
+}
