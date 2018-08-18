@@ -78,3 +78,11 @@ section form div.dois label{
 	font-family: "league gothic";
 	text-shadow: none;
 }
+section p.venda{
+	text-align: center;
+	font-size: 2em;
+	color: #ff0098;
+	text-shadow: 1px 2px 5px #fff;
+	margin-top: 10vw;
+	font-family: "league gothic";
+}
