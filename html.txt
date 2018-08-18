@@ -95,3 +95,13 @@
 
 
   }
+
+	$("button").on("click", function(){
+  
+  processar(tabela);
+
+});
+
+</script>
+</body>
+</html>
