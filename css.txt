@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "league gothic";
+    src: url(../fonts/LTe50152.woff);
+}
+
+body{
+	background: #115291;
+}
