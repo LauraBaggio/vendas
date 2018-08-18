@@ -59,3 +59,22 @@ section form label{
 	text-shadow: 1px 2px 5px #ff0098;
 	font-weight: bold;
 }
+section form div.dois{
+	display: flex;
+}
+section form div.dois input{
+	height: 2.2vw;
+	width: 15vw;
+	font-family: "league gothic";
+	background: #74a4d3;
+	color: white;
+	font-size: 1.2em;
+	border: none;
+}
+section form div.dois label{
+	color: white;
+	font-size: 2em;
+	margin: 0 0 2vw 0;
+	font-family: "league gothic";
+	text-shadow: none;
+}
