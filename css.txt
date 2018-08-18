@@ -51,3 +51,11 @@ section form div.um label.quan{
 section form div.um label.prod{
 	margin: 0 1vw 0 5vw;
 }
+section form label{
+	color: white;
+	font-size: 2.3em;
+	margin: 0 0 2vw 0;
+	font-family: "league gothic";
+	text-shadow: 1px 2px 5px #ff0098;
+	font-weight: bold;
+}
