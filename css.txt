@@ -102,3 +102,13 @@ table tr td{
 	font-size: 2em;
 	height: 5vh;
 }
+section button{
+	background: #74a4d3;
+	border: none;
+	box-shadow: 1px 2px 5px #000;
+	color: #ff0098;
+	font-size: 1.8em;
+	border-radius: 1vw;
+	padding: 1vw 2vw;
+	font-family: "league gothic";
+}
